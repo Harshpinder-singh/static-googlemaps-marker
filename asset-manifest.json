@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static-gmap/static/css/main.29693059.chunk.css",
+    "main.js": "/static-gmap/static/js/main.a54e4c49.chunk.js",
+    "main.js.map": "/static-gmap/static/js/main.a54e4c49.chunk.js.map",
+    "runtime~main.js": "/static-gmap/static/js/runtime~main.87e40308.js",
+    "runtime~main.js.map": "/static-gmap/static/js/runtime~main.87e40308.js.map",
+    "static/js/2.2babd8bc.chunk.js": "/static-gmap/static/js/2.2babd8bc.chunk.js",
+    "static/js/2.2babd8bc.chunk.js.map": "/static-gmap/static/js/2.2babd8bc.chunk.js.map",
+    "index.html": "/static-gmap/index.html",
+    "precache-manifest.bc579896eafac910e0bc49f05f4caa89.js": "/static-gmap/precache-manifest.bc579896eafac910e0bc49f05f4caa89.js",
+    "service-worker.js": "/static-gmap/service-worker.js",
+    "static/css/main.29693059.chunk.css.map": "/static-gmap/static/css/main.29693059.chunk.css.map",
+    "static/media/magnifier-tool.png": "/static-gmap/static/media/magnifier-tool.1390208e.png"
+  }
+}
